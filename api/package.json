@@ -1,7 +1,7 @@
 {
   "name": "agent-customer-app",
   "version": "1.0.0",
-  "description": "App for displaying, updating and deleting customoer and agent informtation",
+  "description": "App for displaying, updating and deleting customer and agent informtation",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
