@@ -1,0 +1,28 @@
+Business Requirements/Specifications 
+
+Assumptions
+
+The app will have a front-end component with at least four different pages (Agent List Page, Agent Detail Page, Agent’s Customer List View Page, Agent’s Customer Detail Page).
+
+These pages will call the APIs created by the server tier to display and input data.
+
+The server tier will eventually be connected to a database to store the data and schemas to ensure all required input is present.
+
+The server tier will make use of two different sets of routes, one for agents and one for customers.
+
+
+Questions
+
+Will the update APIs take a complete set of data or partial data for a data object?
+
+If the data object does not exist should it be added on an update functions?
+
+If the data object already exists should it be updated on an add functions?
+
+Are all of the data objects required? Are any objects optional?
+
+How will customers that have city and country be handled vs. city and state?
+
+Were the headings switched for the customer pages? The details for the Agent’s Customer Detail Page sounds more like Agent’s Customer List View Page and vice versa.
+
+Are unit tests required for the MVP?
