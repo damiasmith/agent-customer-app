@@ -1,8 +1,15 @@
 # agent-customer-app
-# Agent Customer App
-  An app for displaying, updating and deleting customoer and agent informtation
+An app for displaying, updating and deleting customoer and agent informtation
 
 ## Quick Start Guide
+Install Node.js
+https://nodejs.org/en/download/
+
+```bash
+node -v
+npm -v
+```
+
 Install dependencies.
 ```bash
 npm install
