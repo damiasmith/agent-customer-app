@@ -1,5 +1,5 @@
 # agent-customer-app
-An app for displaying, updating and deleting customoer and agent informtation
+An app for displaying, updating and deleting customer and agent informtation
 
 ## Quick Start Guide
 Install Node.js
