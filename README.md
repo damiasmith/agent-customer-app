@@ -27,9 +27,9 @@ npm start
 <p>get all agents  GET http://localhost:4000/agents<br>
 get agent by id  GET http://localhost:4000/agents/1987<br>
 add agent  POST http://localhost:4000/agents<br>
-update agent  PUT http://localhost:4000/agents/167<br>
+update agent  PUT http://localhost:4000/agents/167</p>
 
-get all customers  GET http://localhost:4000/customers<br>
+<p>get all customers  GET http://localhost:4000/customers<br>
 update customer  PUT http://localhost:4000/customers/5055<br>
 get customer by agent id  GET http://localhost:4000/customers/agent/1987<br>
 add customer  POST http://localhost:4000/customers<br>
