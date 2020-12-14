@@ -27,9 +27,9 @@ express.js<br>
 Postman</p>
 
 
-# Test API in Postman
+## Test API in Postman
 
-## Get the Collection
+### Get the Collection
 [![Run in Postman](https://run.pstmn.io/button.svg)](https://app.getpostman.com/run-collection/0b9f29bedc1058c74859)
 
 Run the collection in the app not the browser.  
